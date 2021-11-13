@@ -1,16 +1,26 @@
-### Hi there 👋
+# Hi there 👋, I'm Mohammad - aka MAAL
 
-<!--
-**MAALsLAB/MAALsLAB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MAAL is an abbreviation for my full name if you are wondering,
+take a look at my [LAB][website] to know what I can do for you.
 
-Here are some ideas to get you started:
+## Hardware and Software Developer!!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I used to introduce myself as an Electronics Technician, or Software Developer!, but in fact, I am neither, in short, I am a tech-savvy who like to work with electronics, computers, rockets, and robots. Loves to try, learn and discover new things all the time.
+
+- 🌱 I’m currently learning everything 🤣
+- ⚡ Fun fact: I do like Owls 🦉🦉🦉
+
+### Skills:
+
+| Software Skills | Hardwer Skills | Hardwer Skills |
+| --------------- | -------------- | -------------- |
+| HTML5           | PCB Design     | ...            |
+| CSS             | ...            | ...            |
+| JS              | ...            | ...            |
+| git             | ...            | ...            |
+
+---
+
+[website]: https://maalslab.netlify.app/
+[twitter]: https://twitter.com/maalslab
+[linkedin]: https://linkedin.com/in/maalslab
