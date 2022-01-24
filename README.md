@@ -1,27 +1,26 @@
-# Hi there 👋, I'm Mohammad - aka MAAL
+# Skills
 
-MAAL is an abbreviation for my full name if you are wondering,
-take a look at my [LAB][website] to know what I can do for you.
+## Software Development Skills
 
-## Hardware and Software Developer!!
-
-I am a tech-savvy who like to work with electronics, computers, rockets, and robots. 
-Loves to try, learn and discover new things all the time.
-
-- 🌱 I’m currently learning everything 🤣
-- ⚡ Fun fact: I do like Owls 🦉🦉🦉
-
-### Skills:
-
-| Software Skills | Hardwer Skills | Hardwer Skills |
-| --------------- | -------------- | -------------- |
-| HTML5           | PCB Design     | ...            |
-| CSS             | ...            | ...            |
-| JS              | ...            | ...            |
-| git             | ...            | ...            |
+- HTML5
+- CSS
+- git
+- Markdown
 
 ---
 
-[website]: https://maalslab.netlify.app/
-[twitter]: https://twitter.com/maalslab
-[linkedin]: https://linkedin.com/in/maalslab
+## Firmware Development Skills
+
+- Embedded C Lnaguage for 8-Bit, 16-Bit and 32-Bit Microcontrollers
+
+  - PIC16, PIC18, ATmega328, ATmega16, ATmega32
+  - ESP32, ESP8266
+
+---
+
+## Hardwer Skills
+
+- Soldering-Desoldering Electronics Components
+- PCB Design Using KiCad, Altium Designer
+
+  - Single and Double Layers PCB
